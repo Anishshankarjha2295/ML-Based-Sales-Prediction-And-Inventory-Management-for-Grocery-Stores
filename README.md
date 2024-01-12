@@ -1,1 +1,1 @@
-# ML-Based-Sales-Prediction-And-Inventory-Management-for-Grocery-Stores
+# Machine-Learning-Based-Sales-Prediction-and-Inventory-Management-For-Grocery-Stores
